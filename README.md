@@ -1,6 +1,10 @@
 # Modulo_Magento_Seur
 Repositorio público del módulo oficial de SEUR para Magento
 
+## v1.16.11
+- Quitar espacios en las referencias de bultos, para evitar errores al comunicar envíos
+- Corregir problema en procesamiento de código postal de origen
+
 ## v1.16.10
 
 - Arreglado problema de compatibilidad con PHP 8.2, limpieza de código
