@@ -1,6 +1,12 @@
 # Modulo_Magento_Seur
 Repositorio público del módulo oficial de SEUR para Magento
 
+## v1.17
+- Mejorar el uso de valores de configuración en distintos alcances de la web (vista de tienda, website, valores por defecto)
+- Corregir funcionamiento del botón "Test connection"
+- Correcciones menores de código
+
+
 ## v1.16.11
 - Quitar espacios en las referencias de bultos, para evitar errores al comunicar envíos
 - Corregir problema en procesamiento de código postal de origen
