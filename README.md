@@ -1,6 +1,9 @@
 # Modulo_Magento_Seur
 Repositorio público del módulo oficial de SEUR para Magento
 
+## v1.18
+- Actualizadas URLs de seguimiento de envíos (live tracking)
+
 ## v1.17
 - Mejorar el uso de valores de configuración en distintos alcances de la web (vista de tienda, website, valores por defecto)
 - Corregir funcionamiento del botón "Test connection"
