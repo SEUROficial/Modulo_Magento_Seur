@@ -1,6 +1,9 @@
 # Modulo_Magento_Seur
 Repositorio público del módulo oficial de SEUR para Magento
 
+## v1.19
+- Arreglar procesamiento de número de paquete en envíos internacionales
+
 ## v1.18
 - Actualizadas URLs de seguimiento de envíos (live tracking)
 
