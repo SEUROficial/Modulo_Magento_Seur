@@ -1,6 +1,12 @@
 # Modulo_Magento_Seur
 Repositorio público del módulo oficial de SEUR para Magento
 
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## v1.20.0
+- Implementar funcionalidad para asignar varios bultos a un solo item del envío
+
 ## v1.19
 - Arreglar procesamiento de número de paquete en envíos internacionales
 
